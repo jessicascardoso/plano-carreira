@@ -46,4 +46,4 @@ Ordem de estudos:
     12. []Bônus - Introdução a Deep Learning
     13. []Desenvolvimento Web
     14. []Introdução ao Web Scraping
-    15. []Avaliação Fina
+    15. - [ ] Avaliação Final
