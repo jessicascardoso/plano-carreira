@@ -1,4 +1,4 @@
-# Plano de Estudos & Carreira 17/06 - 31/07/2021
+# Plano de Estudos & Carreira 17/06 - 31/07/2021.
 Ordem de estudos:
 1. Big Data Fundamentos 2.0 [Link](https://www.datascienceacademy.com.br/course/big-data-fundamentos)
     1. - [ ] Introdução
